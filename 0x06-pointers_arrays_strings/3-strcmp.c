@@ -8,10 +8,8 @@
  * another number if not.
  */
 int _strcmp(char *s1, char *s2)
-
 {
 	int i = 0, op = 0;
-
 
 
 	while (op == 0)
